@@ -10,7 +10,7 @@ To generate a direct download link for this file, copy this link's random genera
 --------------------------------------------------------------------------
 https://drive.google.com/file/d/ (1lAXNVj8ZUY3hDHTLovoZMfLX1nbHVc8E) /view
 --------------------------------------------------------------------------
-() = The part you must copy. This is your File ID.
+( ) = The part you must copy. This is your File ID.
 -----------------------------------------------------------------------
 
 If you copied your random generated part (File ID), paste that part to the app and press ENTER.
